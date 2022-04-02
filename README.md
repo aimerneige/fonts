@@ -1,3 +1,3 @@
 # fonts
 
-One key fonts install script.
+One key fonts install script for Linux.
